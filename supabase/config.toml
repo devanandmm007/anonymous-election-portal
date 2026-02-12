@@ -1,0 +1,4 @@
+project_id = "liigtmqxwunkyqmehwim"
+
+[functions.cast-vote]
+verify_jwt = false
